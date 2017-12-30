@@ -4,7 +4,7 @@
 
 Submitted by: **Adeyemi Ibijemilusi**
 
-Time spent: **0.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/fInf2"><a href="//imgur.com/fInf2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[[https://imgur.com/GmOi9fq]]
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
