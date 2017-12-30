@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://giphy.com/gifs/3oFzmqYuR8YgCJ07jW/html5"></a>
+<a href="https://media.giphy.com/media/3oFzmqYuR8YgCJ07jW/giphy.gif"><img src="https://giphy.com/gifs/3oFzmqYuR8YgCJ07jW/html5" title = "testing"/></a>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
