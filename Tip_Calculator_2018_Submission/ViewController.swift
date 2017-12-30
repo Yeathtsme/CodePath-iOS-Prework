@@ -25,9 +25,28 @@ class ViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         billField.becomeFirstResponder()
+        print("Hello World")
+        //Save Data
+        //let colorKey = UserDefaults.standard
+        UserDefaults.standard.set(Color.data,forKey: "colorArray")
+        UserDefaults.standard.synchronize()
     }
     override func viewDidLoad() {
         super.viewDidLoad()
+        //Retrive Data
+        let colorKey = UserDefaults.standard
+//        Color.data = colorKey.array(forKey: "colorArray") as? [Float] ?? [Float]()
+        if let color = UserDefaults.standard.array(forKey: "colorArray") {
+            print("Color Exist")
+            
+            if color.count == 0 {
+                print("Color is empty")
+            }else{
+                print("Color is not empty, it has \(color.count) items")
+            }
+        }else {
+            print("Color is nil")
+        }
         // hides back bar button item
         self.navigationItem.hidesBackButton = true
         // sets background color

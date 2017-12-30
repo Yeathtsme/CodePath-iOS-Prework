@@ -67,6 +67,8 @@ class SettingsViewController: UIViewController {
         label3.text = String(ViewController.Color.data[2])
        // Testing Changed Values
         print(" red: \(label1.text ?? "N/A") green: \(label2.text ?? "N/A") blue: \(label3.text ?? "N/A")")
+        UserDefaults.standard.set(ViewController.Color.data,forKey: "colorArray")
+        UserDefaults.standard.synchronize()
     }
     /*
     // MARK: - Navigation
