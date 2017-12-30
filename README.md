@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/3oFzmqYuR8YgCJ07jW" width="259" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmqYuR8YgCJ07jW">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/3oFzmqYuR8YgCJ07jW/html5"></a>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
